@@ -1,0 +1,1 @@
+jQuery excercise: https://grzegorz-turek.github.io/jquery-accordion/
